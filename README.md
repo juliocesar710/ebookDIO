@@ -23,5 +23,5 @@ ChatGpt:
               > Deixe o texto enxuto
               > Sempre traga exemplos em codigo em contextos reais
               > sempre deixe um titulo sugestivo por topico
-|
+
 | Imagem | faça uma imagem para um ebook, ele falara de react, mas eu queria uma tematica meio de mar, piratas, algo assim ai tava pensando em uma capa bem simples e minimalista, com a logo do react sendo o leme de um navio em destaque na capa |
