@@ -7,7 +7,7 @@ Este foi um projeto dedicado ao Bootcamp da Caixa e DIO que estou fazendo, fiz u
 - 🖥️ Tecnologias utilizadas no projeto
 
   - [ChatGpt](https://chatgpt.com)
-  - WPS Office
+  - [WPS Office](https://br.wps.com)
 <hr>
 
 ## 🧠 Prompts
@@ -24,3 +24,8 @@ ChatGpt:
 |             | > Inclua exemplos de código em contextos reais.                                                                                                                                           |
 |             | > Crie títulos sugestivos para cada tópico.                                                                                                                                               |
 | **Imagem**  | Crie uma imagem para a capa de um eBook sobre React com uma temática de mar/piratas. A capa deve ser simples e minimalista, com o logo do React como o leme de um navio em destaque. |
+
+- ## 📙Materiais
+  - Imagens utilizadas em **`assets`**
+- ## 🔎 Instruções de execução
+Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e utilize uma ferramenta de edição de documentos como power point, libreoffice , indesign para diagramação.
