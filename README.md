@@ -7,7 +7,8 @@ Este foi um projeto dedicado ao Bootcamp da Caixa e DIO que estou fazendo, fiz u
 <hr>
 <li>ChatGpt</li> 
 <li>WPS Office</li> 
+<hr>
 
-🧠 ##Prompts
+🧠 ## Prompts
 
 ChatGpt:
