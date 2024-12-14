@@ -6,7 +6,7 @@ Este foi um projeto dedicado ao Bootcamp da Caixa e DIO que estou fazendo, fiz u
 
 🖥️ Tecnologias utilizadas no projeto
 
-<li>[ChatGpt](https://chatgpt.com)</li> 
+[ChatGpt](https://chatgpt.com)
 <li>WPS Office</li> 
 <hr>
 
