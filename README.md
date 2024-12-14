@@ -2,13 +2,14 @@
 Este foi um projeto dedicado ao Bootcamp da Caixa e DIO que estou fazendo, fiz um ebook com informações úteis e rápidas sobre componentes react
 
 📖 [Clique aqui para ler](./output/ebookReact.pdf)
+<hr>
 
 🖥️ Tecnologias utilizadas no projeto
-<hr>
-<li>ChatGpt</li> 
+
+<li>[ChatGpt](https://chatgpt.com)</li> 
 <li>WPS Office</li> 
 <hr>
 
-## Prompts
+## 🧠 Prompts
 
 ChatGpt:
