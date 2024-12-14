@@ -9,6 +9,6 @@ Este foi um projeto dedicado ao Bootcamp da Caixa e DIO que estou fazendo, fiz u
 <li>WPS Office</li> 
 <hr>
 
-🧠 ## Prompts
+## Prompts
 
 ChatGpt:
