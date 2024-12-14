@@ -5,8 +5,8 @@ Este foi um projeto dedicado ao Bootcamp da Caixa e DIO que estou fazendo, fiz u
 
 🖥️ Tecnologias utilizadas no projeto
 <hr>
-- ChatGpt
-- WPS Office
+<li>ChatGpt</li> 
+<li>WPS Office</li> 
 
 🧠 ##Prompts
 
